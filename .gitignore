@@ -1,0 +1,4 @@
+*.fen
+*.png
+*.json
+Makefile
